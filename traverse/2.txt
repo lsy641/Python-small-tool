@@ -1,0 +1,2589 @@
+﻿1
+00:24:33,560 --> 00:24:35,730
+今晚的观众真多
+Wow, it's a great turnout here tonight,
+
+2
+00:24:35,800 --> 00:24:37,120
+而且不是我平常打交道的观众
+it’s no t my usual audience .
+
+3
+00:24:37,140 --> 00:24:39,800
+我的大部分时间花在农民和牧民身上
+I spend a lot of my time talking to farmers and ranchers .
+
+4
+00:24:39,840 --> 00:24:42,410
+今晚我很荣幸可以来到这里
+And it's my pleasure to be here speaking to you tonight.
+
+5
+00:24:42,700 --> 00:24:44,150
+我希望我们可以
+I'd like to start with a premise that
+
+6
+00:24:44,190 --> 00:24:45,880
+先在一个前提上达成共识
+I hope we can all agree on,
+
+7
+00:24:46,070 --> 00:24:48,920
+那就是未来我们需要为更多人提供更多的食物
+and that is in the future more people are going to
+
+8
+00:24:48,940 --> 00:24:52,260
+同时降低对环境的负面影响
+need to be fed better with less environmental impact.
+
+9
+00:24:52,480 --> 00:24:54,130
+作为一名公共领域的科学家
+And as a public sector scientist,
+
+10
+00:24:54,150 --> 00:24:57,460
+我的专业兴趣就在于 如何找到切实可行的方法以解决这个问题
+my interest is finding real -world solutions to that problem .
+
+11
+00:24:57,840 --> 00:25:00,880
+对我而言，转基因技术提供了一种解决问题的方法
+And to me GM food offers one of those solutions .
+
+12
+00:25:01,040 --> 00:25:03,840
+这项技术通过将某个物种基因
+It's derived from crops produced using a breeding method
+
+13
+00:25:03,920 --> 00:25:07,460
+转移到另一个物种来实现育种和作物生产
+based on the movement of useful genes from one species into another .
+
+14
+00:25:07,950 --> 00:25:09,560
+今晚 我将会讨论
+Tonight I'll spend some time discussing
+
+15
+00:25:09,580 --> 00:25:11,990
+转基因作物骄人的安全性
+the impressive safety record of GM crops,
+
+16
+00:25:12,210 --> 00:25:14,200
+它们是如何带来证据确凿的好处
+how they've provided well -documented benefits,
+
+17
+00:25:14,230 --> 00:25:17,100
+以及为什么在某些情况下
+and how GM is sometimes uniquely able to
+
+18
+00:25:17,120 --> 00:25:18,670
+转基因技术是唯一能带来有用性状
+deliver a useful trait
+
+19
+00:25:18,870 --> 00:25:21,300
+比如对抗气候变化——的技术
+like crops that are more resilient to climate change .
+
+20
+00:25:21,400 --> 00:25:23,480
+我认为，转基因技术的好处
+And I will contend that the benefits of GM
+
+21
+00:25:23,520 --> 00:25:25,100
+实在是太巨大了
+are too great to vote anything
+
+22
+00:25:25,130 --> 00:25:26,810
+所以今晚必须对它说“是”
+but "Yes" for GM tonight .
+
+23
+00:25:27,480 --> 00:25:32,010
+转基因技术通常被等同于孟山都或者农业公司巨头
+GMO technology often gets conflated with Monsanto and Big Ag,
+
+24
+00:25:32,180 --> 00:25:33,830
+但实际上它只是一种育种工具
+but it's actually a breeding tool,
+
+25
+00:25:33,960 --> 00:25:35,800
+一种具有多种用途的工具
+one that can be used for many purposes .
+
+26
+00:25:36,060 --> 00:25:37,230
+在我自己的研究中
+In my own research,
+
+27
+00:25:37,260 --> 00:25:39,120
+我采用了多种育种技术
+in selection for disease resistant cattle
+
+28
+00:25:39,270 --> 00:25:40,730
+来选择对疾病有抗性的牲畜
+I use many breeding methods ,
+
+29
+00:25:40,800 --> 00:25:43,240
+既包括传统的方式
+including classical selection for healthy animals
+
+30
+00:25:43,450 --> 00:25:45,600
+近年来也包括使用DNA标记
+and more recently, the use of DNA markers
+
+31
+00:25:45,640 --> 00:25:48,420
+来协助挑选对疾病有抗性的基因
+to assist in selecting for disease resistant genes .
+
+32
+00:25:48,730 --> 00:25:50,940
+作为一名遗传学家 我可以预想
+As a geneticist I can envision
+
+33
+00:25:50,970 --> 00:25:53,790
+如果将转基因技术与其他育种方法相结合
+how combining GM with these other breeding methods,
+
+34
+00:25:53,890 --> 00:25:56,080
+因为它们之间并不互斥
+because they a re not mutually exclusive,
+
+35
+00:25:56,240 --> 00:25:59,660
+就可以加快我的基于公共资助的研究项目
+could accelerate the progress of my publicly funded research program
+
+36
+00:25:59,810 --> 00:26:04,090
+因为我能用遗传工程直接保护牲畜免受疾病
+by enabling me to use GM to directly protect cattle from infection.
+
+37
+00:26:04,480 --> 00:26:06,710
+这样可以减少动物疾病
+This would be associated with reduced illness
+
+38
+00:26:06,830 --> 00:26:08,730
+减少抗生素的使用
+and the decreased use of antibiotics,
+
+39
+00:26:08,830 --> 00:26:12,370
+我想我们都认同这样做的价值
+something I think is perhaps a common shared value amongst this group
+
+40
+00:26:12,960 --> 00:26:15,670
+如弗莱里之前提到的那样
+As Robb mentioned, most commercialized GMO crops today
+
+41
+00:26:15,700 --> 00:26:18,350
+大部分商业化的转基因作物能够抗虫、抗除草剂
+have been made to resist insects and herbicides
+
+42
+00:26:18,370 --> 00:26:21,560
+并且被全球1800万农民采用
+and have been adopted by 18 million farmers globally,
+
+43
+00:26:21,780 --> 00:26:22,670
+更重要的是
+but importantly
+
+44
+00:26:22,680 --> 00:26:26,480
+这其中的1650万是来自发展中国家的农民
+16.5 million of those farmers are in the developing world,
+
+45
+00:26:26,680 --> 00:26:27,760
+有男性也有女性
+both men and women,
+
+46
+00:26:27,850 --> 00:26:29,350
+他们其中一些人所拥有的耕地面积
+some of whom farm areas
+
+47
+00:26:29,390 --> 00:26:31,740
+不到今晚这个报告厅的大小
+smaller than the size of the auditorium tonight .
+
+48
+00:26:32,040 --> 00:26:35,000
+这样广泛应用意味着什么？
+What have been the impacts of this widespread adoption?
+
+49
+00:26:35,250 --> 00:26:37,580
+作为一名科学家 我需要阅读独立的
+As a scientist I go to the independent,
+
+50
+00:26:37,660 --> 00:26:40,250
+经过同行审议的文献
+peer-reviewed literature to answer such questions,
+
+51
+00:26:40,370 --> 00:26:42,240
+特别是文献综述或者荟萃分析
+especially reviews and meta-
+
+52
+00:26:42,260 --> 00:26:45,850
+它们代表了大量独立研究的总结
+analyses that present a summary of many independent studies .
+
+53
+00:26:46,030 --> 00:26:48,210
+这就像是一名充分了解情况的裁判
+It's like a well-informed referee presenting
+
+54
+00:26:48,240 --> 00:26:50,760
+
+an objective assessment of the state of play .对比赛进行客观评估。
+55
+00:26:51,200 --> 00:26:54,840
+Recently, German university professors published a comprehensive
+
+最近，德国的一组科学家发表了一篇
+56
+00:26:54,870 --> 00:26:56,960
+analysis of 147 separate studies
+
+针对147项独立研究的综合分析报告
+57
+00:26:57,120 --> 00:27:00,600
+that assess the impact of GM crops .
+
+评估转基因作物的影响
+58
+00:27:00,990 --> 00:27:04,710
+They found that the benefits were significant not only in the U.S .
+
+他们发现，转基因作物的意义不仅限于美国
+59
+00:27:04,760 --> 00:27:07,060
+but more importantly in the developing world.
+
+对发展中国家更是意义重大
+60
+00:27:07,370 --> 00:27:10,280
+On average, GM technol ogy adoption
+
+转基因技术使得
+61
+00:27:10,400 --> 00:27:14,510
+has reduced chemical pesticide use by 37 percent,
+
+杀虫剂的使用量平均减少37%
+62
+00:27:15,420 --> 00:27:18,340
+increased yields by 22 percent,
+
+农作物产量平均增加22%
+63
+00:27:18,600 --> 00:27:22,290
+and increased farmer profits by 68 percent .
+
+农民收益平均提高68%
+64
+00:27:23,380 --> 00:27:25,760
+The yield gains are due to more effective pest control
+
+产量增高是因为更加有效的虫害控制
+65
+00:27:25,810 --> 00:27:27,360
+and thus lower crop damage .
+
+以及相应降低的作物损害
+66
+00:27:27,560 --> 00:27:30,170
+And the benefits have been largest for smallholder farmers
+
+这些益处对于发展中国家中的小农户最为可观
+67
+00:27:30,210 --> 00:27:33,360
+in developing countries who have dramatically reduced
+
+有了转基因作物
+68
+00:27:33,400 --> 00:27:36,610
+their insecticide applications as a result of GM crops .
+
+他们可以大量降低杀虫剂的使用
+69
+00:27:36,840 --> 00:27:38,630
+This has benefitted both farmer health
+
+这对于农民健康
+70
+00:27:38,670 --> 00:27:41,350
+and also the environment and beneficial insects .
+
+环境以及益虫等各方都有好处
+71
+00:27:41,640 --> 00:27:44,280
+Now researchers throughout the public and private sector
+
+现在，来自公共以及私立科研机构的研究人员
+72
+00:27:44,310 --> 00:27:48,030
+are using this breeding tool to deliver other benefits to society .
+
+正在利用这项育种技术带来其他社会收益
+73
+00:27:49,110 --> 00:27:52,360
+Researchers at Hawaii and Cornell University
+
+来自夏威夷大学和康奈尔大学的研究员
+74
+00:27:52,400 --> 00:27:54,830
+have used it to produce a virus resistant papaya,
+
+研究出了抗病毒的木瓜
+75
+00:27:54,840 --> 00:27:58,070
+a product which has literally saved the Hawaiian papaya industry.
+
+说这项产品拯救了整个夏威夷的木瓜行业也不为过
+76
+00:27:58,410 --> 00:28:01,340
+Other introductions include drought resistant corn,
+
+其他的应用包括抗旱玉米
+77
+00:28:01,640 --> 00:28:03,200
+virus resistant squash,
+
+抗病毒西葫芦
+78
+00:28:03,300 --> 00:28:05,530
+consumer traits like a non -browning apple,
+
+还有针对消费者的属性,比如不会变色的苹果
+79
+00:28:05,670 --> 00:28:07,390
+a low -acrylamide potato,
+
+和低丙烯酰胺土豆
+80
+00:28:07,440 --> 00:28:09,910
+and crops that produce oils improved for nutrition .
+
+以及让油料作物出产营养更好的油
+81
+00:28:10,230 --> 00:28:11,790
+None of these applications
+
+这些应用都不需要
+82
+00:28:11,820 --> 00:28:14,320
+require the use of any chemical pesticides,
+
+使用任何化学农药
+83
+00:28:14,480 --> 00:28:17,770
+an issue that often gets conflated with this technology .
+
+农药问题总是被人跟转基因问题混为一谈
+84
+00:28:18,240 --> 00:28:21,490
+University researchers are working to develop GM oranges
+
+大学里的研究者在致力于
+85
+00:28:21,530 --> 00:28:23,790
+that are resistant to citrus greening disease,
+
+研究抗柑橘黄龙病的橙子
+86
+00:28:23,900 --> 00:28:26,710
+something that is devastating the Florida orange industry .
+
+柑橘黄龙病已经对佛罗里达的橙业
+87
+00:28:26,960 --> 00:28:27,870
+And here in New York,
+
+造成了毁灭性的打击
+88
+00:28:27,980 --> 00:28:29,720
+researchers are using a wheat gene
+
+就在我们身处的纽约
+89
+00:28:29,750 --> 00:28:32,030
+to develop GM American chestnut trees
+
+研究人员利用一种小麦基因
+90
+00:28:32,170 --> 00:28:34,320
+resistant to the imported chestnut blight.
+
+来研制可以抵抗栗疫病的转基因美洲栗树
+91
+00:28:34,560 --> 00:28:35,380
+If approved,
+
+如果可以得到批准
+92
+00:28:35,570 --> 00:28:39,300
+these trees will be distributed to the public in a not for profit program
+
+这些树种可以通过非盈利项目传播
+93
+00:28:39,550 --> 00:28:42,780
+to restore the Ameri can chestnut tree to the eastern forests .
+
+以恢复美国东部森林里的栗树
+94
+00:28:43,270 --> 00:28:45,070
+Plant diseases annually destroy
+
+植物疾病每年会造成
+95
+00:28:45,090 --> 00:28:48,010
+some 15 percent of our world's agricultural harvest,
+
+全球15%的农业收成损失
+96
+00:28:48,100 --> 00:28:50,940
+a number that is likely to grow as our climate changes .
+
+考虑到气候变化 这个数字还很有可能增长
+97
+00:28:51,310 --> 00:28:53,890
+There are many publicly funded groups around the world,
+
+全球有很多公众资助的研究团体
+98
+00:28:53,930 --> 00:28:57,100
+working to develop GM-disease resistant varieties of crops,
+
+致力于研发各种转基因抗病植物
+99
+00:28:57,240 --> 00:29:00,490
+including apples, bananas, cassava, cowpea,
+
+包括苹果、香蕉、木薯、豇豆
+100
+00:29:00,570 --> 00:29:03,940
+eggplant, grapes, potatoes, rice, sweet potatoes, and wheat .
+
+茄子、葡萄、土豆、大米、红薯和小麦
+101
+00:29:04,380 --> 00:29:05,870
+Some of these staple crops are
+
+其中有些主粮
+102
+00:29:05,880 --> 00:29:08,720
+an essential source of nutrient in the diets of the poor.
+
+是贫困地区人口的必备营养来源
+103
+00:29:09,080 --> 00:29:10,590
+And it doesn't stop at plants .
+
+这项技术还不仅仅局限于植物
+104
+00:29:10,620 --> 00:29:12,740
+Researchers at CUNY are working with
+
+纽约城市大学的研究人员
+105
+00:29:12,770 --> 00:29:15,120
+an international consortium to develop genetically
+
+同一个国际联合组织合作研发
+106
+00:29:15,140 --> 00:29:18,310
+-engineered cattle that are resistant to African Sleeping Sickness,
+
+抗非洲昏睡病的牲畜
+107
+00:29:18,350 --> 00:29:20,560
+a disease that kills several thousand people
+
+这种疾病每年造成上千人
+108
+00:29:20,600 --> 00:29:22,200
+and three million cattle annually.
+
+以及300万牲畜的死亡
+109
+00:29:22,560 --> 00:29:24,660
+This project is being publicly funded
+
+并且这项研究
+110
+00:29:24,870 --> 00:29:26,760
+by the Bill and Melinda Gates Foundation,
+
+获得了盖茨基金会和
+111
+00:29:26,790 --> 00:29:28,790
+and the U.S .National Science Foundation.
+
+美国国家科学基金会资助
+112
+00:29:29,140 --> 00:29:32,450
+All of these GM applications focus on controlling disease
+
+这些研究都旨在利用基因技术
+113
+00:29:32,480 --> 00:29:35,190
+with genetics rather than chemicals,
+
+而不是化学技术来控制疾病
+114
+00:29:35,430 --> 00:29:36,840
+an objective that I would argue
+
+我认为这和农业生态学
+115
+00:29:36,860 --> 00:29:40,130
+is compatible with agroecology , sustainability,
+
+可持续发展、
+116
+00:29:40,280 --> 00:29:42,080
+and feeding more people better
+
+喂饱更多人
+117
+00:29:42,220 --> 00:29:43,900
+with less environmental impact .
+
+同时减少环境影响的目标相符合
+118
+00:29:44,140 --> 00:29:47,840
+There are literally dozens of other applications and field trials globally.
+
+全球还有几十项应用在其他方面的转基因技术和试验研究
+119
+00:29:47,910 --> 00:29:50,320
+Nitrogen -efficient and flood- tolerant rice.
+
+高氮效率、耐洪涝的水稻
+120
+00:29:50,550 --> 00:29:51,710
+Drought- tolerant wheat .
+
+抗旱小麦
+121
+00:29:51,820 --> 00:29:54,750
+And Bio Cassava Plus, a private -public partnership
+
+还有木薯生物营养促进计划（BioCassava Plus）
+122
+00:29:54,970 --> 00:29:57,550
+that will use GM to increase the nutrient levels,
+
+这是一项公共和私立部门携手发展的项目
+123
+00:29:57,610 --> 00:30:00,240
+shelf life, and disease resistance of cassava,
+
+利用转基因技术提高木薯的营养价值
+124
+00:30:00,360 --> 00:30:03,280
+a major source of carbohydrates in parts of the world .
+
+木薯是世界部分地区的主要碳水化合物来源
+125
+00:30:03,470 --> 00:30:05,600
+Improved cassava harvests could increase
+
+提高木薯产量
+126
+00:30:05,640 --> 00:30:07,510
+the incomes of African households,
+
+可以提高非洲家庭收入
+127
+00:30:07,660 --> 00:30:09,330
+helping lift poor farmers
+
+帮助贫困农民
+128
+00:30:09,400 --> 00:30:11,440
+-- many of them women -- out of poverty .
+
+其中许多是女性——脱离贫困
+129
+00:30:12,230 --> 00:30:13,680
+I could go on, but none of this
+
+我还可以举出很多例子
+130
+00:30:13,720 --> 00:30:16,350
+would be possible without the broad scientific consensus
+
+但是倘若没有科学界针对转基因技术安全性广泛的共识
+131
+00:30:16,370 --> 00:30:18,750
+about the safety of GM and solidated
+
+以及对这种共识强有力的支持
+132
+00:30:18,780 --> 00:30:20,330
+[spelled phonetically] and support that consensus .
+
+这些研究都无法成为可能
+133
+00:30:20,550 --> 00:30:23,080
+A 2013 review article,
+
+2013年的一篇
+134
+00:30:23,180 --> 00:30:26,040
+written by independent Italian public sector scientists,
+
+由意大利公共研究机构的科学家独立完成的综述文章
+135
+00:30:26,190 --> 00:30:31,390
+reviewed over 1,700 scientific records on GE crop safety published this past decade,
+
+总结了过去10年内发表的超过1700份
+136
+00:30:31,630 --> 00:30:33,700
+and concluded that the scientific research
+
+关于转基因作物安全性的科学报告
+137
+00:30:33,750 --> 00:30:37,540
+conducted so far has not detected any significant hazards
+
+这篇综述得到的结论是目前没有任何科学研究
+138
+00:30:37,700 --> 00:30:40,040
+directly connected with the use of GE crops .
+
+发现了与转基因作物直接相关的显著危险
+139
+00:30:40,320 --> 00:30:43,570
+My own 2014 review paper examined both well -
+
+我自己的2014年的综述文章里
+140
+00:30:43,600 --> 00:30:45,240
+designed animal feeding studies
+
+既检查了众多设计严密的动物喂养试验
+141
+00:30:45,450 --> 00:30:47,330
+and the field performance and health trends
+
+也检查了过去十年里
+142
+00:30:47,360 --> 00:30:50,920
+of the over 100 billion food producing animals that
+
+上千亿头采用转基因饲料
+143
+00:30:50,960 --> 00:30:53,590
+have been consuming GM feed over the last decade,
+
+喂养肉用牲畜的健康趋势
+144
+00:30:53,710 --> 00:30:55,880
+and found no credible evidence of harm .
+
+同样没有发现任何危害的可信证据
+145
+00:30:56,270 --> 00:30:58,660
+The American Association for the Advancement of Science,
+
+美国科学促进会（AAAS，American Association for the Advancement of Science）
+146
+00:30:58,770 --> 00:31:02,000
+the world's largest and most prestigious scientific society,
+
+是全世界最大，最富盛名的科研团体
+147
+00:31:02,090 --> 00:31:05,630
+stated in 2012 that science is quite clear:
+
+该协会在2012年发表声明
+148
+00:31:05,780 --> 00:31:09,820
+crop improvement by modern molecular techniques of biotechnology is safe .
+
+科学证据十分明确：现代生物技术和分子手段用于改良作物是安全的
+149
+00:31:10,050 --> 00:31:12,160
+They're joined by the World Health Organization,
+
+世界卫生组织，
+150
+00:31:12,190 --> 00:31:16,100
+the American Medical Association, the U.S. National Academy of Sciences,
+
+美国医学协会 美国国家科学院
+151
+00:31:16,120 --> 00:31:20,700
+the British Royal Society, and every major regulatory agency in the world .
+
+英国皇家学会和全世界每一个主要监管机构也作出了相应的表态
+152
+00:31:21,280 --> 00:31:22,970
+Given the realized benefits,
+
+考虑到它已经实现的好处
+153
+00:31:23,190 --> 00:31:24,970
+the potential of this science,
+
+这项技术的潜力，
+154
+00:31:25,150 --> 00:31:27,100
+and the documented safety record,
+
+以及确凿的安全纪录
+155
+00:31:27,250 --> 00:31:30,360
+I urge you to allow breeders to use this valuable method
+
+我希望你们允许育种者采用这项宝贵的技术改良作物
+156
+00:31:30,560 --> 00:31:33,750
+to improve crops an d vote yes for tonight's motion.
+
+并且在今晚投票支持转基因技术
+157
+00:31:33,750 --> 00:31:33,750
+【】
+00:31:55,070 --> 00:31:56,320
+Thanks, folks,
+谢谢大家
+00:31:56,380 --> 00:31:59,100
+and thanks to Intelligence Squared for having me back .
+谢谢智能平方再次邀请我
+00:31:59,200 --> 00:32:02,910
+I figured I used up my welcome last time,
+【】
+00:32:02,970 --> 00:32:04,670
+but glad to be back again .
+【】
+00:32:05,260 --> 00:32:07,680
+Well, I guess the reason we're having a debate is
+我想我们之所以在这里辩论
+00:32:07,980 --> 00:32:10,750
+perhaps there isn't complete agreement on some of the things
+是因为我们对我正在讨论的某些事情
+00:32:10,830 --> 00:32:12,920
+that we've been discussing already .
+并没有完全达成一致
+00:32:13,160 --> 00:32:16,010
+In fact, you know, Robb and Alison,
+事实上，如果弗莱里和埃宁纳姆
+00:32:16,120 --> 00:32:17,610
+if all of what you said was true,
+所言都是对的
+00:32:17,680 --> 00:32:20,620
+I would be over there at your side of the table,
+我早就跑到桌子那边去
+00:32:20,810 --> 00:32:24,430
+go ing at it with -- with poor Mar di all by herself.
+留下可怜的梅隆一个人在这边了
+00:32:25,710 --> 00:32:29,900
+
+I do think it's time for sort of a national fireside chat
+
+我确实认为 是时候进行一场
+170
+00:32:29,980 --> 00:32:34,400
+about the applications of agricultural biotechnology in food production .
+
+关于食品生产中的农业生物科技的全国性炉边谈话了
+171
+00:32:34,960 --> 00:32:36,700
+And I'm actually glad it's happening.
+
+我很高兴这样的讨论今天成为了现实
+172
+00:32:36,760 --> 00:32:40,560
+We've had a number of highly contested state level ballot
+
+关于转基因食品的标注问题
+173
+00:32:40,590 --> 00:32:42,830
+initiatives on labeling of GE food .
+
+我们已经面临了许多争议激烈的州级投票
+174
+00:32:43,160 --> 00:32:47,520
+And as a result, the awareness and consciousness of people around the country is going up .
+
+其结果是全国各地的人们对此的了解和关注程度都有所提高
+175
+00:32:47,580 --> 00:32:48,910
+And that's a good thing.
+
+这是件好事情。
+176
+00:32:49,200 --> 00:32:51,790
+The -- there's tough choices for our society about
+
+我们正面临一项艰难的决定
+177
+00:32:51,870 --> 00:32:56,270
+whether we want to go down this road of more intensive,
+
+我们的社会是应该沿着这条遗传工程主导的
+178
+00:32:57,950 --> 00:33:02,160
+specialized input intensive agriculture,
+
+愈发高强度的专门化
+179
+00:33:02,490 --> 00:33:05,680
+kind of with genetic engineering leading the train,
+
+农业道路走下去呢
+180
+00:33:05,710 --> 00:33:10,160
+or whether we want to steer agriculture in some other directions .
+
+还是应该把农业转到其他的路线上
+181
+00:33:10,620 --> 00:33:12,760
+So, a couple of things I ask of the audience,
+
+在你们听取双方争辩的时候
+182
+00:33:12,810 --> 00:33:15,610
+as you listen to the back and forth tonight.
+
+我想提出一些要求
+183
+00:33:15,640 --> 00:33:17,130
+And there'll be -- there'll be a lot of it .
+
+可能有很多要求
+184
+00:33:17,690 --> 00:33:21,120
+I ask you to vote on the reality of what genetically engineered crops,
+
+我要求你们能够就目前市场上的转基因作物
+185
+00:33:21,160 --> 00:33:24,360
+the ones that are on the market today, have actually brought about,
+
+可以带来的实际好处投票
+186
+00:33:24,650 --> 00:33:28,480
+and not just how well they work for the first three or four years .
+
+而且不是只看它们头三四年里的表现
+187
+00:33:28,520 --> 00:33:30,840
+And I think, you know, the record is very clear,
+
+这些作物很快就得到了采用
+188
+00:33:30,920 --> 00:33:33,400
+they were rapidly adopted . They worked very well .
+
+效果也很好，这都有明确的记录
+189
+00:33:33,980 --> 00:33:38,540
+They were spectacularly effective in particularly the Roundup Ready crops.
+
+特别是转基因的抗草甘膦作物 效果惊人
+190
+00:33:38,570 --> 00:33:41,050
+And these are the so-called herbicide tolerant crops,
+
+这些所谓的抗除草剂作物
+191
+00:33:41,080 --> 00:33:44,540
+which made it easy for farmers to control weeds in corn,
+
+使得农民可以更加容易地控制玉米
+192
+00:33:44,620 --> 00:33:46,330
+soybeans, and cotton.
+
+大豆和棉花地里面的杂草
+193
+00:33:46,400 --> 00:33:49,530
+Those were the three big crops .We'll mostly talk about those tonight .
+
+这三种主要作物 是我们今晚的主要讨论对象
+194
+00:33:50,590 --> 00:33:55,400
+So , don't -- you know, don't base this on the promise
+
+但是，请不要基于生物技术产业
+195
+00:33:55,450 --> 00:33:58,040
+and the aspirations of the biotechnology industry
+
+所许诺的愿景投票
+196
+00:33:58,090 --> 00:34:00,170
+and the things that the biotech industry thinks that
+
+也就是不要考虑那些生物技术产业
+197
+00:34:00,350 --> 00:34:02,960
+at some point the science will deliver,
+
+认为未来科学可能可以实现的目标
+198
+00:34:03,500 --> 00:34:05,820
+things like corn plants that fix their own nitrogen
+
+比如可以自行固氮的植物
+199
+00:34:06,110 --> 00:34:09,000
+or drought tolerant crops or nutritionally enhanced crops .
+
+或者抗旱作物 或者营养增强型作物
+200
+00:34:09,630 --> 00:34:11,880
+Some of these things may eventually be achieved,
+
+其中有些目标可能终将会被实现
+201
+00:34:11,950 --> 00:34:13,210
+but they haven't yet.
+
+但是它们目前还没有
+202
+00:34:13,280 --> 00:34:14,890
+And I ask you to think about the
+
+我希望你们能够比较一下
+203
+00:34:15,000 --> 00:34:19,450
+-- what's the reality of genetic engineering agriculture today
+
+遗传工程农业的现实
+204
+00:34:19,500 --> 00:34:22,090
+as opposed to the promise or the aspiration .
+
+和他们做出的承诺
+205
+00:34:23,680 --> 00:34:27,680
+I also suggest and ask you to think about
+
+我也希望你们能够考虑
+206
+00:34:27,740 --> 00:34:31,480
+the impacts of genetically engineered crops as a package .
+
+转基因作物这个整体
+207
+00:34:31,530 --> 00:34:36,030
+It's not just the genes that Robb Fraley and his colleagues at Monsanto
+
+而不只是弗莱里和他在孟山都的同事
+208
+00:34:36,410 --> 00:34:38,830
+were able to work into the corn plant,
+
+植入玉米中的几个基因
+209
+00:34:39,000 --> 00:34:40,160
+but you have to think about
+
+你需要考虑的是
+210
+00:34:40,220 --> 00:34:42,650
+how that corn plant behaves in the field,
+
+玉米在农田的表现它的实际产量
+211
+00:34:42,860 --> 00:34:46,300
+the yields, what the impacts of the BTproteins that
+
+作物里到处都是的Bt蛋白对整个环境的影响
+212
+00:34:46,360 --> 00:34:49,690
+are all throughout that plant are on the environment,
+
+对水生生态系统的影响
+213
+00:34:49,770 --> 00:34:52,750
+on aquatic ecosystems, on the cost to farmers .
+
+对农民成本的影响
+214
+00:34:53,000 --> 00:34:56,270
+And, of course, in the case of the herbicide tolerant crops,
+
+当然，在抗除草剂作物的例子中
+215
+00:34:56,430 --> 00:35:01,020
+the great concern is this huge increase in herbicide use
+
+最大的担忧在于
+216
+00:35:01,080 --> 00:35:03,370
+that's started about a decade ago
+
+自10年前起就逐年增长的除草剂用量
+217
+00:35:03,560 --> 00:35:06,090
+and has gotten worse and worse and worse each year .
+
+并且情况每年都在不断恶化
+218
+00:35:06,170 --> 00:35:09,200
+And now the -- the industry and the government
+
+现在，工业界和政府
+219
+00:35:09,290 --> 00:35:13,740
+has just approved the next generation of herbicide -tolerant crops
+
+刚刚批准了下一代抗除草剂作物
+220
+00:35:14,110 --> 00:35:16,430
+that are now engineered to
+
+通过转基因技术
+221
+00:35:16,520 --> 00:35:19,160
+tolerate two of the riskiest old herbicides
+
+它们可以抵抗两种
+222
+00:35:19,390 --> 00:35:20,800
+that have been in use for a long time .
+
+风险最高的古老杀虫剂
+223
+00:35:20,890 --> 00:35:23,500
+You'll hear the word "2 ,4-D" and "Dicamba."
+
+你会听到“2,4-D”和“麦草畏”的名字
+224
+00:35:24,360 --> 00:35:28,120
+This is definitely not a step in the right direction.
+
+这绝对不是正确的方向
+225
+00:35:28,460 --> 00:35:31,930
+So , we have to think about the totality of the impacts,
+
+我们需要考虑它整体的影响
+226
+00:35:32,480 --> 00:35:34,920
+including we have put so much energy as a country,
+
+包括整个国家已经投入的大量精力
+227
+00:35:35,040 --> 00:35:38,590
+and the industry has put most of its plant
+
+还有产业界对育种的巨大投入
+228
+00:35:38,650 --> 00:35:47,400
+-breeding effort or eggs in the GE basket for these herbicide tolerant crops and BT crops .
+
+这些都是转基因篮子里的鸡蛋
+229
+00:35:47,690 --> 00:35:49,760
+And there's a lot of other priorities
+
+还有很多其他的重要事项
+230
+00:35:49,820 --> 00:35:54,040
+that plant breeders have not focused on as seriously as they should have .
+
+却没有得到植物育种人员应有的重视。
+231
+00:35:54,120 --> 00:35:56,650
+And that is a cost of the technology .
+
+这项技术是有代价的
+232
+00:35:57,950 --> 00:36:01,230
+We're going to talk a lot about safety today .
+
+今天我们将会就安全性进行很多讨论
+233
+00:36:01,400 --> 00:36:05,550
+Rest assured there is no consensus about the safety of GE foods,
+
+对转基因食品的安全性没有共识
+234
+00:36:05,580 --> 00:36:07,240
+and there are a number of reasons to
+
+而2014年的今天 我们需要担心的理由
+235
+00:36:07,290 --> 00:36:11,980
+be more concerned in 2014 than we were in 1996,
+
+远比我们在1996年开展这项技术
+236
+00:36:12,040 --> 00:36:15,130
+the year that they were introduced, or in 2000 ,
+
+或者2000年
+237
+00:36:15,280 --> 00:36:22,000
+which was about the time the adoption of herbicide tolerant soybeans was very high .
+
+我们采用抗除草剂大豆的时候要多
+238
+00:36:23,210 --> 00:36:25,800
+And, really, with each passing year,
+
+事实上，在过去的每一年中
+239
+00:36:26,030 --> 00:36:29,740
+as more and more GE plants are grown,
+
+随着我们种植了越来越多的转基因植物
+240
+00:36:29,920 --> 00:36:33,740
+as more herbicides are required to bring them to harvest,
+
+我们需要的除草剂也越来越多
+241
+00:36:33,980 --> 00:36:38,830
+the list of both health concerns and environmental concerns is growing .
+
+越来越多关于健康和环境的担忧随之而来
+242
+00:36:38,920 --> 00:36:41,370
+And I'm sure we'll get back to them .
+
+我会在稍后继续讨论这一点
+243
+00:36:42,300 --> 00:36:44,160
+There was a National Geographic,
+
+去年 国家地理
+244
+00:36:44,270 --> 00:36:48,200
+wonderful National Geographic series about the future of food the last year .
+
+有一系列对未来食品的精彩专题
+245
+00:36:48,350 --> 00:36:50,860
+And perhaps many of you read at least some of them.
+
+相信你们中的很多人至少读了其中的几期。
+246
+00:36:51,210 --> 00:36:54,970
+In the May 2014 issue of National Geographic,
+
+在2014年5月份的国家地理中
+247
+00:36:55,070 --> 00:36:59,230
+there was kind of a capstone piece that sort of presented a plan forward
+
+有一篇奠基性文章算是提出了一项前进计划
+248
+00:36:59,710 --> 00:37:06,380
+-- to meet the needs of 9 billion people on an earth with shrinking resources .
+
+如何在资源不断减少的情况下满足90亿人的需求
+249
+00:37:06,810 --> 00:37:08,400
+And this guy, Jonathan Foley,
+
+作者乔纳森?福里（Jonathan ?Foley）
+250
+00:37:08,440 --> 00:37:10,750
+an academic from the University of Minnesota,
+
+是来自明尼苏达大学的研究者
+251
+00:37:10,830 --> 00:37:14,200
+he wrote a piece, "A Five -Step Plan to Feed the World."
+
+他的文章题目是“养活世界的五步计划”
+252
+00:37:14,780 --> 00:37:16,620
+It's really a great piece . It's short .
+
+这篇文章很短 很精彩
+253
+00:37:17,790 --> 00:37:19,660
+So, here's where his five steps,
+
+在这里我要引用他说的原话
+254
+00:37:19,840 --> 00:37:24,000
+and I quote exactly how he states them ."Freeze agriculture's footprint."
+
+首先是“冻结农业的足迹”
+255
+00:37:24,490 --> 00:37:29,660
+And by this, in his discussion, he's talking about, let's not clear any more tropical rainforests
+
+也就是不再砍伐雨林
+256
+00:37:30,010 --> 00:37:33,130
+Let's leave most of the wild lands wild
+
+让尽可能多的野生环境保持原貌
+257
+00:37:33,850 --> 00:37:37,480
+Second, " Grow more on the farms that we have."
+
+第二，“在现有农地上尽可能多的种植作物”
+258
+00:37:37,660 --> 00:37:40,080
+And this is absolutely right on.
+
+这点非常正确
+259
+00:37:40,120 --> 00:37:42,730
+I mean, you know, in -- in the developed world,
+
+在发达国家，
+260
+00:37:43,130 --> 00:37:48,320
+farmers, you know, harvest 150 to 250 bushels of corn,
+
+农民可以收获150到250蒲式耳玉米
+261
+00:37:48,400 --> 00:37:50,920
+in Africa, you know, 40 to 60 .
+
+而在非洲，农民只能收获40到60蒲式耳
+262
+00:37:51,310 --> 00:37:55,390
+So , there's great potential around the world to raise the yields on the
+
+所以，提升全球产量的空间是巨大的
+263
+00:37:55,440 --> 00:37:59,120
+-- on farms that really have worn out soils,
+
+对于使用过度而贫瘠的土地
+264
+00:37:59,290 --> 00:38:03,040
+don't have access to a lot of input .
+
+和那些缺少必要输入的土地
+265
+00:38:03,340 --> 00:38:05,070
+So growing more on the farms we have
+
+显然，在现有农地上尽可能多的
+266
+00:38:05,120 --> 00:38:08,570
+is clearly a critical part of the solution .
+
+种植作物是解决问题的关键
+267
+00:38:09,150 --> 00:38:15,450
+His -- Foley's third way to help feed the world,
+
+福里的第三点是
+268
+00:38:15,500 --> 00:38:18,190
+it was, "Use resources more efficiently."
+
+“更加有效地利用资源”
+269
+00:38:18,270 --> 00:38:19,690
+This is kind of a no-brainer.
+
+这显而易见
+270
+00:38:19,980 --> 00:38:27,280
+It's -- it's something that obviously most of the agricultural inputs that today's corn,
+
+考虑到现在玉米、大豆或者
+271
+00:38:27,370 --> 00:38:30,480
+soybean and cotton farmers use are petroleum based .
+
+棉花农业都需要石油资源作为输入
+272
+00:38:31,370 --> 00:38:33,100
+As the price of energy goes up,
+
+如果成本上涨
+273
+00:38:33,180 --> 00:38:34,650
+their prices is going to go up .
+
+价格也会上涨
+274
+00:38:34,730 --> 00:38:38,030
+And perhaps their availability will come into question .
+
+也许这些资源的供应可能会成为问题
+275
+00:38:38,490 --> 00:38:40,680
+So , obviously we have to use petroleum
+
+所以我们需要更加有效地
+276
+00:38:40,750 --> 00:38:43,390
+-based inputs more efficiently and water more efficiently .
+
+利用石油资源和水资源
+277
+00:38:44,320 --> 00:38:47,660
+The fourth, a very important one: "Shift diets."
+
+第四点，非常重要的一点“改变饮食结构”
+278
+00:38:48,890 --> 00:38:53,130
+Us Americans, people in Europe, we -- we eat very high on the hog .
+
+美国人，欧洲人，我们吃得太奢侈了
+279
+00:38:53,230 --> 00:38:54,520
+We eat a lot of meat,
+
+我们食用了过多肉类，
+280
+00:38:54,620 --> 00:38:56,330
+and it takes a lot of food calories
+
+生产一单位热量的牛肉需要花费很多热量
+281
+00:38:56,380 --> 00:39:00,480
+to produce a single calorie of beef, about 100 to 1.
+
+能量转换效率只有1/100。
+282
+00:39:00,480 --> 00:39:02,480
+【】
+00:41:27,920 --> 00:41:32,920
+I've read essentially all the statements by various bodies .
+我几乎读过各方开具的所有陈述
+00:41:32,990 --> 00:41:35,300
+And here's what they essentially all say .
+基本上这些报告都是
+00:41:35,330 --> 00:41:36,490
+They use slightly different words .
+用略微不同的措辞说同样的事情
+00:41:37,020 --> 00:41:39,880
+They say the genetic engineering of food
+遗传工程作为一种技术
+00:41:39,920 --> 00:41:45,200
+as a technology does not create any new or different potential risks
+和其他的植物育种相比
+00:41:45,220 --> 00:41:48,630
+in the modified foods that other forms of plant breeding don't.
+并没有创造出任何新的或者不同的潜在风险
+00:41:49,120 --> 00:41:50,170
+Several of the reports,
+其中有几篇报道
+00:41:50,210 --> 00:41:53,960
+including both of the two National Academy of Sciences reports that
+包括两篇来自美国国家科学院的专题报道
+00:41:54,190 --> 00:41:55,870
+specifically address this say that
+指出转基因食品
+00:41:56,320 --> 00:42:03,490
+there is a possibility that genetically engineered foods may pose higher risk of that nature,
+存在带来更大风险的可能性
+00:42:03,550 --> 00:42:04,600
+but we really don't know .
+但我们并不真的知道
+00:42:05,210 --> 00:42:09,960
+They also all say that there's no convincing evidence now or at this point
+它们也都说目前没有令人信服的证据
+00:42:10,140 --> 00:42:13,720
+that there's been acute health problems in the U.S. population
+表明美国民众有因为食用转基因食品
+00:42:13,760 --> 00:42:16,120
+from the consumption of genetically engineered foods.
+而产生急性健康问题
+00:42:16,550 --> 00:42:20,130
+And then they all go on to call for further
+然后它们接下来呼吁
+00:42:20,300 --> 00:42:23,370
+investment in the development of more sensitive,
+进一步投资来研发
+00:42:24,640 --> 00:42:27,860
+scientific techniques to assess the possibile risks,
+更敏感更科学的技术
+00:42:28,280 --> 00:42:32,300
+and they also call for post approval surveillance .
+来评估可能风险
+00:42:32,600 --> 00:42:35,660
+Most of the recommendations for better science,
+以及在批准上市后的持续监控
+00:42:35,720 --> 00:42:38,590
+more careful risk assessment and post market surveillance
+但这些报告里呼吁的大部分推荐措施
+00:42:38,640 --> 00:42:40,880
+that have been made for over 15 years,
+提出至今已经有15年甚至更久
+00:42:40,910 --> 00:42:42,930
+in these reports have not been acted upon
+在美国却还没有实现
+00:42:43,720 --> 00:42:45,490
+【】
+
+00:42:46,600 --> 00:42:47,880
+306
+So, first of all, you know,
+首先
+
+00:42:48,100 --> 00:42:49,710
+307
+don't want to repeat what I said earlier,
+我并不想重复之前的话【】
+
+00:42:49,920 --> 00:42:51,020
+308
+but, you know, this science is
+但要知道这门科学
+
+00:42:51,080 --> 00:42:53,440
+309
+-- has been around literally since the 1970s
+自从70年代起就存在了
+
+00:42:53,480 --> 00:42:56,940
+310
+and had broad applicability to health and agriculture
+而且已经广泛应用在健康和农业领域
+
+00:42:57,160 --> 00:42:58,310
+311
+with an impressive safety record .
+有着十分出色的安全记录。
+
+00:42:58,400 --> 00:43:02,630
+312
+I mean, not a single issue of animal or human safety with the technology .
+在动物和人类中没有发现过一例来自转基因技术的安全问题
+
+00:43:02,920 --> 00:43:04,360
+313
+That's because it's inherent that
+这既是因为
+
+00:43:04,380 --> 00:43:06,400
+314
+we've been moving genes from the beginning of time,
+我们有史以来就一直在移动基因
+
+00:43:06,650 --> 00:43:08,270
+315
+but also, I just want to ill ustrate
+也说明了我们
+
+00:43:08,600 --> 00:43:11,640
+316
+how important the regulatory oversight has been .
+监管的重要性
+
+00:43:12,320 --> 00:43:14,740
+317
+Chuck and I first met when we put in place
+我和查克第一次见面还是在
+
+00:43:14,760 --> 00:43:17,120
+318
+the USDA EPA and FDA oversight,
+确立农业部-环保署-食品药品监督局联合监管规范的时候
+
+00:43:17,160 --> 00:43:19,200
+319
+which is still the gold standard around the world .
+这套规范至今还是世界范围的金标准
+
+00:43:20,060 --> 00:43:24,000
+320
+But every country that we ship corn or soybeans to around the world
+而我们出口玉米和大豆的每一个国家
+
+00:43:24,160 --> 00:43:27,410
+321
+has already done their independent health and safety assessments
+除此之外还有数以千计的学术研究
+
+00:43:27,520 --> 00:43:30,760
+322
+as well as literally thousands of academic studies that
+也都做了自己的独立健康安全评估
+
+00:43:31,010 --> 00:43:34,100
+323
+all point to the same conclusion that's been codified by
+全都指向同样的结论
+
+00:43:34,140 --> 00:43:36,640
+324
+every major science organization around the world.
+被全世界所有主要科学团体接受：这些产品是安全的。
+
+00:43:36,650 --> 00:43:37,100
+325
+【】All right, let me stop you for a second.
+
+326
+These products are safe.
+00:43:37,100 --> 00:43:37,810
+【】All right, let me stop you for a second.
+
+327
+These products are safe.
+00:43:37,810 --> 00:43:38,110
+
+328
+00:43:38,180 --> 00:43:39,430
+
+I just want to ask Margaret Mellon
+329
+00:43:39,480 --> 00:43:41,080
+do you concede that point, or do you refute it?
+00:43:41,790 --> 00:43:43,080
+No, I do not concede it.
+
+00:43:43,410 --> 00:43:45,300
+331
+So what -- what's wrong about his facts then?
+
+332
+Well, I think that there is agreement
+00:43:46,400 --> 00:43:48,120
+我想我们可以赞同
+
+333
+that there is no evidence that the current applications of genetic engineering
+00:43:48,160 --> 00:43:54,890
+没有证据表明现在的遗传工程应用
+
+334
+have dramatic acute short term
+00:43:55,250 --> 00:43:57,350
+有明显的急性短期效应。
+【】
+
+00:43:57,390 --> 00:43:59,890
+335
+No, no, but the thrust of the argument
+
+336
+and then you can go on for your point
+00:43:59,930 --> 00:44:01,220
+
+337
+00:44:01,320 --> 00:44:02,300
+
+the thrust of his argument is that
+338
+00:44:02,330 --> 00:44:05,440
+there has been an enormous amount of vetting going on
+00:44:05,600 --> 00:44:06,820
+at government levels around the world
+
+00:44:06,860 --> 00:44:08,820
+340
+and that this in itself would act as a safety net
+
+341
+do you refute that, that sort of vetting is going on?
+00:44:08,850 --> 00:44:11,260
+
+342
+00:44:11,290 --> 00:44:13,780
+
+I think that there's a lot of review that's going on
+343
+00:44:13,840 --> 00:44:16,610
+and I think that it is focused on the point that I've just made
+00:44:16,670 --> 00:44:24,080
+that there are no acute dramatic effects of the consumption of genetically modified organisms
+
+00:44:24,650 --> 00:44:30,170
+345
+All of those assessments have left open this notion
+但所有这些评估都忽略了两个问题
+
+00:44:30,600 --> 00:44:35,270
+346
+-- two things, one, that there could be subtle long term effects
+一，有可能会有潜在的长期效应
+
+00:44:35,430 --> 00:44:38,650
+347
+that we have not identified and that
+还没有被发现
+
+00:44:39,640 --> 00:44:44,220
+348
+each application of genetic engineering needs to be looked at separately.
+二。每一项遗传工程应用都应该被分别看待
+
+00:44:44,250 --> 00:44:47,210
+349
+So, whatever you say about Roundup Ready crops,
+所以，不管抗草甘膦作物如何
+
+00:44:47,280 --> 00:44:51,410
+350
+that says nothing about these new gene silencing technologies
+它不能证明这些正在研发的新基因操控技术
+
+00:44:51,480 --> 00:44:52,540
+351
+that are right up the way.
+也是安全的
+
+00:44:52,640 --> 00:44:56,720
+352
+So , a blanket assertion of safety isn't scientifically justified.
+所以，一揽子宣称安全是不能得到科学证实的
+
+00:44:57,040 --> 00:44:58,420
+353
+
+【】
+
+00:44:58,570 --> 00:45:00,270
+354
+Sure, I mean, as a scientist
+的确，作为科学家
+
+00:45:00,310 --> 00:45:02,770
+355
+like I would never make a blanket assertion about safety
+肯定不会下一揽子的结论
+
+00:45:02,800 --> 00:45:06,040
+356
+and I think it's very much dependent on each particular review .
+我认为这要依赖于每一项具体的评估
+
+00:45:06,340 --> 00:45:08,040
+357
+But I think that as a scientist
+但我认为作为一名科学家
+
+00:45:08,080 --> 00:45:10,700
+358
+I let the data tell me whether there are safety concerns .
+应该让数据告诉我到底有没有安全担忧
+
+00:45:10,750 --> 00:45:13,160
+359
+And after 20 years and thousands of studies
+有这二十年来的数千项研究
+
+00:45:13,250 --> 00:45:17,010
+360
+and I feel the weight of the thousands of academic colleagues
+我能感受到全世界几千位学术界同事的分量
+
+00:45:17,050 --> 00:45:19,340
+361
+throughout the world that have done these safety studies
+他们并没有找到任何特殊的安全隐患
+
+00:45:19,340 --> 00:45:19,960
+362
+But let's look
+throughout the world that have done these safety studies
+他们并没有找到任何特殊的安全隐患
+00:45:19,960 --> 00:45:20,310
+But let's look
+
+00:45:20,370 --> 00:45:22,780
+364
+that haven't found unique concerns that
+
+365
+I have to accept the evidence for what it is and let the data tell me whether it's safe
+00:45:23,010 --> 00:45:27,180
+
+366
+00:45:27,270 --> 00:45:32,930
+但看看你们荟萃分析里积累的数据
+but let's look at data like the kind that you've accumulated in your meta -analysis .
+
+367
+00:45:32,990 --> 00:45:36,050
+比如说牛
+You're looking at cows,
+
+368
+00:45:36,160 --> 00:45:38,320
+牛很年轻的时候就被杀死了
+cows that are killed whe n they are very young,
+
+369
+00:45:38,370 --> 00:45:40,630
+大概14到15个月
+maybe 14 or 15 months old,
+
+370
+00:45:40,870 --> 00:45:42,630
+你们依赖的事实
+and you're drawing from the fact
+
+371
+00:45:43,030 --> 00:45:46,990
+只是屠宰场合格率
+that there haven't been kind of increased condemnation rates
+
+372
+00:45:47,020 --> 00:45:48,280
+在长时间段里没有下降而已
+at slaughter for cows over a long period of time.
+
+373
+00:45:48,280 --> 00:45:50,120
+at slaughter for cows over a long period of time.
+Wait . Can you just back up on the term of art? So looking at cows because they're actually consuming the feed that's
+在长时间段里没有下降而已
+
+374
+Wait . Can you just back up on the term of art? So looking at cows because they're actually consuming the feed that's
+00:45:50,120 --> 00:45:52,870
+
+375
+00:45:52,920 --> 00:45:55,040
+
+They're consuming the feed that's -- that is
+376
+00:45:55,210 --> 00:45:58,160
+and they're opening them up and they're not finding what?
+00:45:58,700 --> 00:46:05,160
+Well, they're all -- I believe that Alison can tell us what she found in her study, but she just looked at the rates of condemnation when
+
+00:46:05,280 --> 00:46:05,920
+378
+What's that word
+
+379
+I mean, when you get
+00:46:06,410 --> 00:46:07,080
+
+380
+00:46:08,120 --> 00:46:13,650
+
+what -- you -- if a -- if someone brings an obviously ill carcass to a slaughterhouse
+381
+00:46:14,090 --> 00:46:14,550
+right
+00:46:14,610 --> 00:46:14,940
+Okay.
+
+00:46:14,970 --> 00:46:21,160
+383
+they are not going to be allowed to sell it . And if you look at those rates and correlate them with --
+
+384
+you look at them over the time that we've been growing
+00:46:21,420 --> 00:46:25,060
+
+385
+00:46:25,080 --> 00:46:27,200
+
+and that animals have been consuming this food,
+386
+00:46:27,920 --> 00:46:30,880
+I think that's a valuable study and it tells you something .
+00:46:31,070 --> 00:46:32,840
+But it doesn't tell you very much.
+
+00:46:33,000 --> 00:46:40,600
+388
+It certainly doesn't tell you about the effects of these crops even on animals who live a full lifetime.
+
+389
+What would tell us ? And I want to go to the other side .
+00:46:40,640 --> 00:46:42,140
+
+390
+00:46:42,170 --> 00:46:44,710
+
+Just so --- I can give you 10 seconds -- what kind of study would tell us the answer?
+391
+00:46:44,840 --> 00:46:48,260
+You need to do long term studies in animals,
+
+你需要做长期动物研究。
+392
+00:46:48,370 --> 00:46:50,080
+you need to do them progressively --
+
+你需要逐步延长，
+393
+00:46:50,580 --> 00:46:55,060
+and we, in fact, need protocols for how to do the kinds of studies that need to be done.
+
+而且我们应当建立协议来确认需要怎样的研究
+394
+00:46:55,060 --> 00:46:56,390
+Okay, that's 10 seconds . Robert Fraley.
+而且我们应当建立协议来确认需要怎样的研究
+and we, in fact, need protocols for how to do the kinds of studies that need to be done.
+
+395
+00:46:56,390 --> 00:46:56,830
+
+Okay, that's 10 seconds . Robert Fraley.
+396
+00:46:57,420 --> 00:46:59,360
+If you look at Alison's review,
+
+如果你看一下埃宁纳姆的综述
+397
+00:46:59,690 --> 00:47:02,020
+there's over two dozen long term animal studies
+
+里面有二十多项长期的动物研究
+398
+00:47:02,090 --> 00:47:03,880
+that point to exactly the same answer,
+
+得出的结论完全相同
+399
+00:47:03,920 --> 00:47:07,080
+that these products are safe, and that's absolutely a fact.
+
+这些产品是安全的，这是事实
+400
+00:47:07,610 --> 00:47:11,080
+And the same agencies that have reviewed all of this data
+
+评估这些数据的那些组织
+401
+00:47:11,110 --> 00:47:16,270
+are the same agencies that have reached the same conclusion on the gravity of science around global warming .
+
+也是在全球变暖的严峻性问题上得出同样结论的那些组织
+402
+00:47:16,420 --> 00:47:18,000
+You know, you go to the National Academy,
+
+你去美国国家科学院
+403
+00:47:18,030 --> 00:47:19,900
+you go to all of the major organizations,
+
+去所有的主要科学机构看看
+404
+00:47:20,240 --> 00:47:23,480
+at some point, you know, if -- consensus doesn't mean everybody agrees,
+
+“共识”并不意味着每个人都统一
+405
+00:47:23,520 --> 00:47:24,990
+it doesn't mean that there's a complete
+
+并不意味着100%的统一观点
+406
+00:47:25,050 --> 00:47:27,760
+100 percent alignment just like there isn't on global warming,
+
+正如全球变暖问题上也不是完全一致
+407
+00:47:28,000 --> 00:47:29,760
+but the science speaks for itself there,.
+
+但科学为自己说话，
+408
+00:47:29,830 --> 00:47:32,100
+and the science has reached a consensus on this
+
+而科学在这个问题上达成了共识
+409
+00:47:32,270 --> 00:47:35,600
+But, Chuck, you said that if you thought that you would go to the other side,
+00:47:35,650 --> 00:47:37,170
+that you're not married to your position,
+
+00:47:37,220 --> 00:47:38,840
+411
+that you're married to data,
+
+412
+because they're saying they have much more data for their position than you do.
+00:47:38,880 --> 00:47:41,830
+
+413
+00:47:43,750 --> 00:47:46,470
+有几个重要的点需要提出来
+A couple of really important points need to be made .
+
+414
+00:47:47,280 --> 00:47:49,880
+过去几年市面上的
+The genetically engineered crops on the market today
+
+415
+00:47:49,920 --> 00:47:52,780
+转基因作物和我们早年间的
+that are being planted by farmers and have been in the last few years
+
+416
+00:47:53,220 --> 00:47:57,950
+转基因作物已经不一样了
+are different from the genetically engineered crops that were planted in the early days
+
+417
+00:47:59,070 --> 00:48:06,180
+弗莱里和他的同事们创造了一系列不断改良的产品
+Rob Fraley and his colleagues have brought out a continuing series of improved more effective products .
+
+418
+00:48:06,210 --> 00:48:07,560
+而他们做的事情之一是
+And one of the things that they've done
+
+419
+00:48:07,590 --> 00:48:10,630
+他们把很多性状叠在了
+is they've stacked multiple traits into a single corn .
+
+420
+00:48:11,100 --> 00:48:13,690
+同一品种的玉米里
+One of the big concerns in the scientific community
+
+421
+00:48:14,530 --> 00:48:17,450
+科学界的一项大担忧是
+is that the Cadillac GE corn that Monsanto has developed,
+
+422
+00:48:17,550 --> 00:48:21,860
+孟山都研发的豪华型转基因玉米，叫做“SmartStax”
+it's called, "SmartStax," and it actually expresses eight different traits .
+
+423
+00:48:21,920 --> 00:48:27,410
+它表达了八个不同的性状
+There's six different Bt proteins that are expressed to control different insects
+
+424
+00:48:27,470 --> 00:48:32,410
+里面有六种不同的Bt蛋白用来控制害虫
+and two genes that confer tolerance to Glyphosate Roundup herbicide
+
+425
+00:48:32,450 --> 00:48:34,540
+还有两个基因分别负责抵抗草甘膦
+and another herbicide called, "G lufosinate."
+
+426
+00:48:35,180 --> 00:48:38,430
+和草铵膦这两种除草剂
+Well, this mixing of eight different traits
+
+427
+00:48:38,480 --> 00:48:42,160
+八种性状混合在这一种作物里引起了
+in this single genetically engineered corn plant raises some,
+
+428
+00:48:42,300 --> 00:48:44,860
+你知道，一些重要的科学担忧
+you know, important scientific concerns,
+
+429
+00:48:44,920 --> 00:48:46,440
+就像你去看医生
+just like when you go to the doctor
+
+430
+00:48:46,920 --> 00:48:49,390
+医生要问你有没有在吃什么药
+the doctor's going to ask you what drugs you've been
+
+431
+00:48:50,080 --> 00:48:55,840
+在给你开处方之前他要知道
+what other medications you might be  on before prescribing you something else for some other problem you may have .
+
+432
+00:48:56,720 --> 00:48:59,150
+管理机构，产业界——
+The regulatory agencies, the industry --
+
+433
+00:48:59,310 --> 00:49:07,530
+没有人对于今天转基因食品性状叠加问题做任何严肃的研究
+no one has done any serious research on the potential problems from these s tacked traits that are in today's GE food.
+
+434
+00:49:07,590 --> 00:49:10,740
+
+Alison Van Eenennaam, is that sort of study called for?
+
+
+435
+In other words, your opponents are saying,
+00:49:10,770 --> 00:49:12,050
+
+
+
+00:49:12,100 --> 00:49:14,510
+436
+"We're getting into so many areas where we've never been before
+
+
+00:49:14,520 --> 00:49:17,400
+that we should go in a very, very cautious way
+
+438
+00:49:17,450 --> 00:49:21,900
+and try to stay ahead of disaster by figuring out what's dangerous.
+
+439
+00:49:21,980 --> 00:49:23,740
+作为育种者，
+Well, I mean, I guess, as a breeder
+
+440
+00:49:23,860 --> 00:49:25,800
+我们日常工作就是叠加性状
+we routinely stack traits .
+
+441
+00:49:25,870 --> 00:49:28,360
+我们始终在
+We're always selecting for multiple traits going into the --
+
+442
+00:49:28,400 --> 00:49:30,450
+
+So, this to you all familiar and old hat .
+443
+00:49:30,520 --> 00:49:31,740
+It doesn't feel it's breeding .
+
+这就是育种
+444
+00:49:31,740 --> 00:49:32,790
+【】
+445
+00:49:33,120 --> 00:49:35,600
+You're always trying to improve multiple traits .
+
+我们一直在改良多种性状
+446
+00:49:35,690 --> 00:49:40,360
+And I think I need to understand the scientific kind of hypothesis,
+
+我想我需要理解这个科学假说
+447
+00:49:40,460 --> 00:49:45,520
+why stacked traits would be more dangerous when the individuals are not separate .
+
+为什么叠加的性状就会比单独的更加危险
+448
+00:49:45,550 --> 00:49:47,530
+I guess it's like looking at a broccolini,
+
+就像西兰苔
+449
+00:49:47,850 --> 00:49:53,180
+and you know broccoli is safe and the other plant that was crossed
+
+你知道西兰花是安全的 芥蓝也是安全的
+450
+00:49:53,500 --> 00:49:56,870
+-- why would a broccolini be more dangerous than its two parents?
+
+二者杂交得到的西兰苔为什么会更危险呢
+451
+00:49:57,080 --> 00:49:58,950
+So, what's your biological basis?
+
+？你的生物学基础是什么呢
+452
+00:49:59,110 --> 00:50:00,570
+The debate isn't about broccolini,
+
+但我们讨论的不是西兰苔
+453
+00:50:00,670 --> 00:50:01,730
+it's about GM foods .
+
+我们讨论的是转基因食物
+454
+00:50:02,300 --> 00:50:05,430
+And I'd like to get back to what Robert Fraley said about
+
+我想回到弗莱里之前说的
+455
+00:50:05,560 --> 00:50:07,290
+they're accepted around the world .
+
+全世界普遍接受问题
+456
+00:50:07,360 --> 00:50:11,040
+I mean, Robert, you know about the problems your sister company,
+
+弗莱里，你知道你的姊妹公司
+457
+00:50:11,120 --> 00:50:14,880
+Syngenta, has now getting corn shipments into China .
+
+先正达正在往中国出口玉米
+458
+00:50:15,220 --> 00:50:21,520
+In fact, the corn industry is very concerned about the growing rejection of shipments
+
+事实上整个玉米产业都在担忧
+459
+00:50:21,570 --> 00:50:22,940
+in China and some other countries,
+
+中国和几个其他国家拒绝进口玉米
+460
+00:50:22,990 --> 00:50:24,330
+because of unapproved traits.
+
+因为里面有未批准的性状
+461
+00:50:24,920 --> 00:50:29,120
+And in fact, we've been reading about ADM and Cargill,
+
+ADM和卡吉尔
+462
+00:50:29,250 --> 00:50:32,080
+two of the largest grain companies in the United States
+
+两家大型粮食公司
+463
+00:50:32,140 --> 00:50:34,390
+-- have sued Syngenta .
+
+起诉了先正达
+464
+00:50:34,770 --> 00:50:38,560
+And there's, like, 50 lawsuits from farmers because of the lost income .
+
+还有五十起诉讼来自遭受贸易损失的农民
+465
+00:50:39,000 --> 00:50:44,320
+So, it's really, I think, disingenuous to suggest that all over the world,
+
+所以我认为 暗示全世界所有国家
+466
+00:50:44,750 --> 00:50:47,390
+all countries have opened their arms to GE crops,
+
+都对转基因作物敞开怀抱
+467
+00:50:47,420 --> 00:50:48,360
+when, in fact, the trend --
+
+是非常不高尚的行为
+468
+00:50:51,570 --> 00:50:53,690
+All right . Let's let -- let's let him respond to that.
+469
+00:50:53,720 --> 00:50:55,360
+I'd be happy to respond to that, although it's, you know, someone else's product.
+470
+00:50:55,920 --> 00:50:57,020
+But I just want to come back to
+471
+00:50:57,020 --> 00:50:57,160
+No . No . I want you to stay on point. I want you -- you can come back later
+
+But I just want to come back to
+472
+00:50:57,160 --> 00:51:00,220
+No . No . I want you to stay on point. I want you -- you can come back later
+00:51:00,240 --> 00:51:03,400
+I'll return to it . So, the question -- we got into this -- was
+
+00:51:03,450 --> 00:51:04,200
+474
+But Robert
+
+475
+but let me run the debate, okay ? I did
+00:51:04,250 --> 00:51:07,150
+
+476
+00:51:07,190 --> 00:51:08,850
+
+I know you do a great job of it, John.
+477
+00:51:08,890 --> 00:51:11,000
+And I will -- but I will come back to you . I will give you a chance to do that
+00:51:11,000 --> 00:51:11,290
+Perfect . That'd be -- that'd be great
+And I will -- but I will come back to you . I will give you a chance to do that
+00:51:11,290 --> 00:51:11,960
+Perfect . That'd be -- that'd be great
+
+00:51:11,960 --> 00:51:12,520
+480
+I just want -- I want come to the point, because it's right in front o f us now, that
+Perfect . That'd be -- that'd be great
+
+00:51:12,520 --> 00:51:15,180
+481
+I just want -- I want come to the point, because it's right in front o f us now, that
+
+482
+the picture you -- part of the argument you made was that the ready acceptance around the world . And your opponents just stated --
+00:51:15,240 --> 00:51:20,280
+
+483
+00:51:20,300 --> 00:51:20,570
+
+So
+484
+00:51:20,600 --> 00:51:22,640
+Okay . Not your company, but the product
+00:51:22,720 --> 00:51:23,740
+Sure . So let's talk about it .
+
+00:51:23,780 --> 00:51:27,760
+486
+So, the issue is, to get the products sold in the United States,
+
+487
+you get FDA, USDA, and EPA approval.
+00:51:27,960 --> 00:51:30,440
+
+488
+00:51:30,680 --> 00:51:34,590
+
+But then you get the import approval from all the countries around the world.
+489
+00:51:34,920 --> 00:51:38,200
+Syngenta got the approval for every country but China .
+00:51:38,910 --> 00:51:42,270
+And China is notoriously slow in their regulatory process .
+
+00:51:42,360 --> 00:51:46,370
+491
+And you know, there may be a little politics involved in this particular case .
+
+492
+But they got 38 out of 39 import approvals,
+00:51:46,570 --> 00:51:50,170
+
+493
+00:51:50,220 --> 00:51:53,650
+
+and there's one more to go . And I know they've been working really hard to get that approval
+494
+00:51:53,720 --> 00:51:55,370
+And you know, it's unfortunate,
+00:51:55,440 --> 00:51:57,040
+when there's a market disruption.
+
+00:51:57,200 --> 00:52:00,270
+496
+But it probably wouldn't surprise folks here to know that
+
+497
+there's sometimes a little bit of politics
+00:52:00,320 --> 00:52:02,470
+
+498
+00:52:02,560 --> 00:52:04,800
+
+and a little bit of mischief behind the scenes .
+499
+00:52:04,960 --> 00:52:05,910
+And that's what's going on here.
+00:52:05,970 --> 00:52:07,010
+Margaret Mellon to respond.
+
+00:52:07,180 --> 00:52:11,710
+501
+Well, I -- I mean, I think it's very important to note how much hassle
+
+502
+-- trade hassle -- is associated with the fact
+00:52:11,800 --> 00:52:15,980
+
+503
+00:52:16,050 --> 00:52:19,800
+
+that the U.S. continues to embrace and push genetically -
+504
+00:52:19,840 --> 00:52:21,540
+modified food on the rest of the world
+00:52:22,160 --> 00:52:25,060
+-- some of whom like it and many of whom don't.
+
+00:52:25,500 --> 00:52:30,560
+506
+In fact, there's, I think, a billion dollars of lost sales as a result of this
+
+507
+-- of this trade disruption that we're talking about.
+00:52:31,800 --> 00:52:34,140
+
+508
+00:52:34,430 --> 00:52:35,800
+
+But that's just one of many.
+509
+00:52:35,900 --> 00:52:41,480
+I mean, there have been contamination incidents of all kinds
+00:52:41,810 --> 00:52:45,060
+that have resulted in American crops being turned back .
+
+00:52:45,520 --> 00:52:51,320
+511
+I mean, this is an expensive technology for us to push in today's world.
+
+512
+It's amazing to me that the big grain traders,
+00:52:51,590 --> 00:52:55,100
+
+513
+00:52:55,510 --> 00:53:02,730
+
+Cargill and ADM, are suing the biotech companies .
+514
+00:53:02,970 --> 00:53:05,480
+And they're suing them for huge amounts of money .
+00:53:05,780 --> 00:53:09,070
+I mean, this is -- this is serious business to them .
+
+00:53:09,330 --> 00:53:11,190
+516
+They're losing them on a lot of money,
+
+517
+and they're frankly not getting much in the way of --
+00:53:11,240 --> 00:53:13,430
+
+518
+00:53:13,580 --> 00:53:15,450
+
+of benefits from the technology .
+519
+00:53:15,680 --> 00:53:18,410
+So, I mean, I think it does signal that
+00:53:18,440 --> 00:53:22,160
+there is discomfort with technology around the world.
+
+00:53:22,200 --> 00:53:23,880
+521
+Some of it may be political,
+
+522
+but it's sure
+00:53:23,920 --> 00:53:25,140
+
+523
+00:53:25,140 --> 00:53:25,450
+but it's sure
+Margaret, I'm going to stop you there
+
+524
+00:53:25,450 --> 00:53:26,130
+
+Margaret, I'm going to stop you there
+525
+00:53:26,260 --> 00:53:28,530
+because point made .Robert, I did say I'd let you come back to your point .
+00:53:28,690 --> 00:53:29,520
+So, it's your time.
+
+00:53:29,640 --> 00:53:31,730
+527
+Sure . So, just, you know,
+
+528
+you said a lot about trade .
+00:53:32,040 --> 00:53:33,080
+请允许我强调
+
+529
+Let me just make the point. 60 percent of the U.S . corn
+00:53:33,120 --> 00:53:36,600
+美国出产的玉米60%用于出口
+
+530
+gets exported around the world
+00:53:36,660 --> 00:53:38,170
+大豆30%出口
+
+531
+and a third of our soybeans to markets that accept these products .
+00:53:38,170 --> 00:53:42,170
+目的地都是那些愿意接受这些产品的市场
+
+532
+We are the breadbasket to the world.
+00:53:42,210 --> 00:53:43,830
+我们是世界的面包篮
+
+533
+It's unfortunate when there's a disruption,
+00:53:44,080 --> 00:53:45,960
+出现贸易纠纷固然令人遗憾
+
+534
+but it' s been really minor against the context of the benefits
+00:53:46,060 --> 00:53:49,260
+但在这些产品提供的粮食安全大背景下
+
+535
+that these products have provided for food security.
+00:53:49,290 --> 00:53:52,040
+这些真的不那么重要
+
+536
+The point I was trying to make on the safety studies is ea ch of these genes is regulated,
+00:53:52,540 --> 00:53:56,680
+
+537
+00:53:56,680 --> 00:53:59,870
+
+individually looked at, and they are also looked at collectively
+538
+00:53:59,870 --> 00:54:04,780
+and there is no reason to believe that they have any concern in terms of stacking them together .
+00:54:04,950 --> 00:54:07,800
+In fact, Chuck, I remember one of the first times we met .
+
+00:54:08,510 --> 00:54:11,200
+540
+You actually reminded me that the best way
+
+541
+to bring this technology into the marketplace was to bring multiple products together
+00:54:11,200 --> 00:54:15,360
+
+542
+00:54:15,360 --> 00:54:18,590
+
+so we had more durability and better insect protection.
+543
+00:54:18,790 --> 00:54:21,780
+In so many cases, the industry's done exactly what you've said.
+00:54:23,600 --> 00:54:25,920
+Yes, that -- that's true . I mean, we --
+
+00:54:29,480 --> 00:54:33,770
+545
+So , to have six different BT proteins in corn,
+我是说 你现在有六种不同的Bt蛋白
+
+00:54:33,800 --> 00:54:36,740
+546
+the idea kind of goes back to the Frank Sinatra song,
+这想法可以追溯到弗兰克·西纳特拉的那首老歌
+
+00:54:36,810 --> 00:54:39,030
+547
+you know, if the right one don't get you,then the left one will .
+如果右边没有干掉你，总还有左边的
+
+00:54:39,650 --> 00:54:42,750
+548
+But the problem is we know that insects,
+但问题是我们知道
+
+00:54:42,880 --> 00:54:44,750
+549
+they -- they have the ability
+害虫有这个能力
+
+00:54:44,800 --> 00:54:47,740
+550
+-- once they develop resistance to one BT protein,
+一旦它们对一种蛋白产生了抗性
+
+00:54:47,760 --> 00:54:52,280
+551
+it becomes much easier and quicker to develop resistance to others .
+对别的蛋白产生抗性就更容易也更快
+
+00:54:52,690 --> 00:54:55,560
+552
+And we now know, both in cotton insects and in corn insects,
+现在我们知道 在棉花和玉米的害虫里
+
+00:54:56,450 --> 00:54:59,310
+553
+we've got corn root worms out there
+我们有根萤叶甲
+
+00:54:59,480 --> 00:55:03,780
+554
+resistant to three of the six BT proteins in his corn already,
+已经对六种蛋白里的三种产生了抗性
+
+00:55:03,810 --> 00:55:05,980
+555
+and it's only been on the market for four years .
+而SmartStax上市才四年
+
+00:55:06,810 --> 00:55:12,210
+556
+So while having multiple BT proteins in there sort of sounds like a good idea,
+所以虽然多种Bt蛋白在一起听起来是个好主意
+
+00:55:12,290 --> 00:55:16,800
+557
+it's already not playing out as planned .
+但现实已经和计划相违了
+
+00:55:17,000 --> 00:55:19,200
+558
+And think about it. On an acre of corn,
+而且考虑一下这一点
+
+00:55:19,810 --> 00:55:22,260
+559
+the six different BT proteins add up to
+一公顷转基因玉米地里六种不同的Bt蛋白
+
+00:55:22,320 --> 00:55:28,340
+560
+3.7 pounds of the Bioinsecticide that's inside that corn.
+加起来是3.7磅的生物杀虫剂
+
+00:55:28,720 --> 00:55:32,480
+561
+And that is allowing farmers to not use a tenth
+这让农民免于使用
+
+00:55:32,600 --> 00:55:36,200
+562
+or perhaps 2/10 of a pound of a soil insecticide .
+0.2磅的土壤杀虫剂
+
+00:55:36,490 --> 00:55:42,120
+563
+So , how do you reduce pesticide use if you're replacing 2/10 of a pound
+用3.7磅代替0.2磅 怎么能叫减少杀虫剂使用呢
+
